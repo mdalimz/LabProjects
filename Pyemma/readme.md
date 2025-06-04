@@ -1,1 +1,3 @@
-
+# Here the most basic features and workflow for analyzing molecular dynamics trajectories is going to cover
+.............................................................................................
+PyEMMA library is used for the estimation, validation and analysis Markov models of molecular kinetics and other kinetic and thermodynamic models from molecular dynamics (MD) data.
