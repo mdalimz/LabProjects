@@ -1,1 +1,1 @@
-# M.Sc-Projects
+# M.Sc_Projects
